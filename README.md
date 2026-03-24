@@ -40,7 +40,7 @@ The program does not need any external input files. All parameters of the enviro
 
 ## Implementation Details
 
-Algorithm
+### Algorithm
 ----------
 
 Implements the A* search algorithm with the following heuristic function:
@@ -52,7 +52,7 @@ Supports two heuristics:
 1. Manhattan Distance
 2. Euclidean Distance
 
-Data Structures
+### Data Structures
 -------------
 
 1. Frontier (Priority Queue)
