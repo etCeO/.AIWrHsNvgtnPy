@@ -1,7 +1,7 @@
 # Intelligent Warehouse Navigation Via Search Algorithms
 ### Robot Pathfinding With A* Search
 
-- The Python script provided is an implementation of the A* search algorithm, which is used to determine the optimal path for a robot to travel in a weighted 5 x 5 grid representing a warehouse.
+- A Python script reflecting the processes and implementation behind the A* search algorithm, ran to determine the optimal path for a robot to travel in a weighted 5 x 5 grid representing a warehouse.
 
 ## Author Info
 
