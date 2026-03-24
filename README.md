@@ -38,6 +38,23 @@ The program does not need any external input files. All parameters of the enviro
 - (4, 2): cost = 2
 - (3, 4): cost = 3
 
+## Output
+
+The program prints:
+
+1. Search Trace
+2. Expanded node at each step
+3. Current frontier state
+
+Format:
+
+Parent_State -> Current_State (g=path_cost, f=total_cost)
+
+Final Results
+- Optimal path (sequence of coordinates)
+- Total path cost
+- Total number of nodes generated
+
 ## Implementation Details
 
 ### Algorithm
