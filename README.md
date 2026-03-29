@@ -85,3 +85,9 @@ Supports two heuristics:
 - Heuristic comparison
 - Step-by-step trace of search process
 
+## Report
+
+- View detailed results and findings here:
+
+https://docs.google.com/document/d/1IzdWcC34rbnH5E_56keG9onPOK7AgVlNLndYHyrxwhA/edit?usp=sharing
+
